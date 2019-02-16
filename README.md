@@ -70,4 +70,4 @@ name.
 - __Note__: Participation in the peer review process is mandatory to
 receive grades for the assignments. More details about the peer review
 will be provided later.
-- __Due Wednesday February 13, 2019 before midnight.__
+- __Due Sunday February 17, 2019 before midnight.__
